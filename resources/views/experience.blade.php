@@ -3,11 +3,15 @@
 @section('title', 'Dashboard')
 
 @section('content_header')
-    <h1>Dashboard</h1>
+    <h1>Pengalaman</h1>
 @stop
 
 @section('content')
-    <p>Selamat Datang</p>
+    <p>-belajar Java</p>
+    <p>-belajar HTML</p>
+    <p>-belajar CSS</p>
+    <p>-belajar PHP</p>
+    <p>-belajar Bootstrap</p>
 @stop
 
 @section('footer')
@@ -21,5 +25,5 @@
 @stop
 
 @section('js')
-    <script> console.log('Hi!'); </script>
+    <script> </script>
 @stop

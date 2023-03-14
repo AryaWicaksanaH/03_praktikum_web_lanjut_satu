@@ -3,11 +3,13 @@
 @section('title', 'Dashboard')
 
 @section('content_header')
-    <h1>Dashboard</h1>
+    <h1>Profile</h1>
 @stop
 
 @section('content')
-    <p>Selamat Datang</p>
+    <p>NIM   : {{$nim}}</p>
+    <p>Nama  : Arya Wicaksana H</p>
+    <p>Kelas : TI-2E</p>
 @stop
 
 @section('footer')
@@ -21,5 +23,5 @@
 @stop
 
 @section('js')
-    <script> console.log('Hi!'); </script>
+    <script> </script>
 @stop
